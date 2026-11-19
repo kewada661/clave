@@ -1,0 +1,13 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "target": "es2022",
+    "module": "es2022",
+    "moduleResolution": "bundler",
+    "rootDir": "Scripts",
+    "outDir": "./wwwRoot/js"
+  },
+  "include": [
+    "Scripts/**/*"
+  ]
+}
